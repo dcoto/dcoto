@@ -1,6 +1,6 @@
 <h1 align="center"><span>David </span>Coto Hernandez</h1>
 
-<h3 align="center">Impassioned about data and coding</h3>
+<h3 align="center">Learning about data and coding</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
