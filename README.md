@@ -8,7 +8,7 @@
 
 - 🌱 Learning **React, Astro, NodeJs**
 
-- 🐱‍💻 All of my projects are available in my Portfolio Web/](https://dcoto.github.io/MyPortfolio/)
+- 🐱‍💻 All of my projects are available at (https://dcoto.github.io/MyPortfolio/)
 
 - 📫 How to reach me **dcotoh.14@gmail.com**
 
