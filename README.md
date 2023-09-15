@@ -1,4 +1,4 @@
-<h1 align="center"><span>David </span>Coto Hernandez</h1>
+<h1 align="center">David Coto Hernandez</h1>
 
 <h3 align="center">Learning about data and coding</h3>
 
