@@ -4,15 +4,15 @@
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working with as a Microsoft 365 services admin****
 
-- 🌱 I’m currently learning **React, Astro**
+- 🌱 Learning **React, Astro, NodeJs**
 
 - 🐱‍💻 All of my projects are available at [https://dcoto.github.io/Portfolio/](https://dcoto.github.io/Portfolio/)
 
 - 📫 How to reach me **dcotoh.14@gmail.com**
 
-- ☕ Love **Coffee**
+- ☕ Love **Caffeine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
