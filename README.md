@@ -4,11 +4,11 @@
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working as a Microsoft 365 services admin****
+- 🔭 I’m currently working as a **Microsoft 365 services admin**
 
-- 🌱 Learning **React, Astro, NodeJs**
+- 🌱 New into coding and GitHub, learning **React, Astro, NodeJs**
 
-- 🐱‍💻 All of my projects are available at (https://dcoto.github.io/MyPortfolio/)
+- 🐱‍💻 All of my **projects** are available at (https://dcoto.github.io/MyPortfolio/)
 
 - 📫 How to reach me **dcotoh.14@gmail.com**
 
