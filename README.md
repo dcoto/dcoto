@@ -1,16 +1,22 @@
-<h1 align="center">David Coto Hernández</h1>
+<h1 href="https://dcoto.github.io/MyPortfolio/" align="center">David Coto Hernández</h1>
 
-<h3 align="center">Learning about data and coding</h3>
+<h2 align="center">🎓 System Engineer</h2>
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🚀 New into coding and GitHub, learning **React, Astro, NodeJs**
+- 📖 Studying to become a **M365 Office Administrator**
 
-- 💻 Working on my projects, **i will be uploading them soon**
+- 🚀 **Front-End** Web developer **HTML, CSS, JavaScript**
+  
+- 📖 Learning **React, .Net, C#**
 
-- 🌎 All of my **projects** are available at https://dcoto.github.io/MyPortfolio/
+- 📊 **Data-Analyst** Advanced Excel, Power Bi, SQL
 
-- 📫 How to reach me **dcotoh.14@gmail.com**
+- 💻 Working on my projects, i will be uploading them **soon**
+
+- 📁 All of my information and **projects** in **<a href="https://dcoto.github.io/MyPortfolio/" align="center">My Portfolio</a>**
+
+- 📫 You can contact me at **dcotoh.14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
