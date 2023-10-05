@@ -1,4 +1,4 @@
-<h1 href="https://dcoto.github.io/MyPortfolio/" align="center">David Coto Hernández</h1>
+<h1 align="center">David Coto Hernández</h1>
 
 <h2 align="center">🎓 System Engineer</h2>
 
@@ -14,7 +14,7 @@
 
 - 💻 Working on my projects, i will be uploading them **soon**
 
-- 📁 All of my information and **projects** in **<a href="https://dcoto.github.io/MyPortfolio/" align="center">My Portfolio</a>**
+- 📁 All of my information and **projects** in **<a target="_blank" href="https://dcoto.github.io/MyPortfolio/" align="center">My Portfolio</a>**
 
 - 📫 You can contact me at **dcotoh.14@gmail.com**
 
