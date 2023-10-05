@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **dcotoh.14@gmail.com**
 
-- ☕ Addicted to **Caffeine**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/david-coto-hern%C3%A1ndez-3558bb249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-coto-hern%c3%a1ndez-3558bb249/" height="30" width="40" /></a>
