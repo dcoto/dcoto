@@ -1,22 +1,20 @@
 <h1 align="center">David Coto Hernández</h1>
 
-<h2 align="center">🎓 System Engineer</h2>
+<h2 align="center">🎓 System Engineer | 📊 Data-Analyst</h2>
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 📖 Studying to become a **M365 Office Administrator**
+ ✔ **Microsoft 365 Expert Administrator**
 
-- 🚀 **Front-End** Web developer **HTML, CSS, JavaScript**
-  
-- 📖 Learning **React, .Net, C#**
+ 📊 **Data-Analyst** Advanced **Excel**, **Power Bi**, **SQL.** 📖 learning to implement **Python** 
 
-- 📊 **Data-Analyst** Advanced Excel, Power Bi, SQL
+ 🚀 **Front-End** Web developer **HTML, CSS, JavaScript**. 📖 Learning **React**
 
-- 💻 Working on my projects, i will be uploading them **soon**
+ 💻 Working on my projects, i will be uploading them **soon**
 
-- 📁 All of my information and **projects** in **<a target="_blank" href="https://dcoto.github.io/MyPortfolio/" align="center">My Portfolio</a>**
+ 📁 All of my information and **projects** in **<a target="_blank" href="https://dcoto.github.io/MyPortfolio/" align="center">My Portfolio</a>**
 
-- 📫 You can contact me at **dcotoh.14@gmail.com**
+ 📫 You can contact me at **dcotoh.14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
